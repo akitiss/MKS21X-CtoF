@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //they should both have one int parameter. one will have celcius parameter to change to fahrenheit and the other will be the other way around. they can be double, but i am only inputting integers, but the output will be double.
 public class CtoFTester{
   public static void main(String[] args) {
@@ -17,6 +16,3 @@ public class CtoFTester{
     return ((fahrenheit - 32) * 5/9);
   }
 }
-=======
-
->>>>>>> f8dd84303eeb42ac1b8010f0f457bb2703a7e739
